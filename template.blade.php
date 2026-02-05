@@ -1,0 +1,1102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta name="x-apple-disable-message-reformatting"/>
+<!--[if !mso]><!--><meta content="IE=edge" http-equiv="X-UA-Compatible"/><!--<![endif]-->
+<title></title>
+<style type="text/css">
+      
+      @media only screen and (min-width: 670px) {
+        .u-row {
+          width: 650px !important;
+        }
+
+        .u-row .u-col {
+          vertical-align: top;
+        }
+
+        
+            .u-row .u-col-32p88 {
+              width: 213.72px !important;
+            }
+          
+
+            .u-row .u-col-33p33 {
+              width: 216.645px !important;
+            }
+          
+
+            .u-row .u-col-33p79 {
+              width: 219.635px !important;
+            }
+          
+
+            .u-row .u-col-44p77 {
+              width: 291.00500000000005px !important;
+            }
+          
+
+            .u-row .u-col-55p23 {
+              width: 358.995px !important;
+            }
+          
+
+            .u-row .u-col-100 {
+              width: 650px !important;
+            }
+          
+      }
+
+      @media only screen and (max-width: 670px) {
+        .u-row-container {
+          max-width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .u-row {
+          width: 100% !important;
+        }
+
+        .u-row .u-col {
+          display: block !important;
+          width: 100% !important;
+          min-width: 320px !important;
+          max-width: 100% !important;
+        }
+
+        .u-row .u-col > div {
+          margin: 0 auto;
+        }
+
+
+        .u-row .u-col img {
+          max-width: 100% !important;
+        }
+
+}
+    
+body{margin:0;padding:0}table,td,tr{border-collapse:collapse;vertical-align:top}p{margin:0}.ie-container table,.mso-container table{table-layout:fixed}*{line-height:inherit}a[x-apple-data-detectors=true]{color:inherit!important;text-decoration:none!important}
+
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: underline; } @media (max-width: 480px) { #u_content_image_1 .v-container-padding-padding { padding: 20px 10px 15px !important; } #u_content_image_1 .v-text-align { text-align: center !important; } #u_content_menu_1 .v-padding { padding: 5px 13px !important; } #u_content_heading_1 .v-container-padding-padding { padding: 439px 10px 36px !important; } #u_content_heading_1 .v-line-height { line-height: 100% !important; } #u_content_text_2 .v-container-padding-padding { padding: 10px 33px !important; } #u_content_image_3 .v-src-width { width: auto !important; } #u_content_image_3 .v-src-max-width { max-width: 100% !important; } #u_content_image_2 .v-src-width { width: auto !important; } #u_content_image_2 .v-src-max-width { max-width: 100% !important; } #u_content_text_3 .v-container-padding-padding { padding: 10px 33px 30px !important; } }
+    </style>
+<!--[if !mso]><!--><link href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_b2343883.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_29a2a4aa.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_b2343883.css') }}" rel="stylesheet" type="text/css"/><link href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_29a2a4aa.css') }}" rel="stylesheet" type="text/css"/><!--<![endif]-->
+</head>
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #fef4f2;color: #000000">
+<!--[if IE]><div class="ie-container"><![endif]-->
+<!--[if mso]><div class="mso-container"><![endif]-->
+<table cellpadding="0" cellspacing="0" id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #fef4f2;width:100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #fef4f2;"><![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: #ffffff">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: #ffffff;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="291" style="width: 291px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-44p77" style="max-width: 320px;min-width: 291.01px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_1" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:17px 10px 15px 30px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="left" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="left" alt="Logo" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632049665343-logo.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 50%;max-width: 125.5px;" title="Logo" width="125.5"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="358" style="width: 358px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-55p23" style="max-width: 320px;min-width: 359px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_menu_1" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:30px 10px 25px;font-family:'Raleway',sans-serif;">
+<div class="menu" style="text-align:center;">
+<!--[if (mso)|(IE)]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style=""><tr><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 15px"><![endif]-->
+<a class="v-padding" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="padding:5px 15px;display:inline-block;color:#0e2c36;font-family:'Raleway',sans-serif;font-size:18px;text-decoration:none" target="_self">
+      Shop
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 15px"><![endif]-->
+<a class="v-padding" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="padding:5px 15px;display:inline-block;color:#0e2c36;font-family:'Raleway',sans-serif;font-size:18px;text-decoration:none" target="_self">
+      About
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 15px"><![endif]-->
+<a class="v-padding" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="padding:5px 15px;display:inline-block;color:#0e2c36;font-family:'Raleway',sans-serif;font-size:18px;text-decoration:none" target="_self">
+      News
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td style="padding:5px 15px"><![endif]-->
+<a class="v-padding" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="padding:5px 15px;display:inline-block;color:#0e2c36;font-family:'Raleway',sans-serif;font-size:18px;text-decoration:none" target="_self">
+      Blog
+    </a>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px;font-family:'Raleway',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if gte mso 9]>
+      <table cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;min-width: 320px;max-width: 650px;">
+        <tr>
+          <td background="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632049205620-hero-image.png') }}" valign="top" width="100%">
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 650px;">
+        <v:fill type="frame" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632049205620-hero-image.png') }}" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+      <![endif]-->
+<div class="u-row-container" style="padding: 0px;background-image: url('{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632049205620-hero-image.png') }}');background-repeat: no-repeat;background-position: center top;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-image: url('{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632049205620-hero-image.png') }}');background-repeat: no-repeat;background-position: center top;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_heading_1" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:455px 10px 30px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-line-height" style="margin: 0px; color: #3b1224; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Raleway',sans-serif; font-size: 50px; font-weight: 400;"><strong>Women's Day</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:5px 10px 50px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-family: Raleway, sans-serif; font-size: 26px; line-height: 36.4px;"><strong>MARCH 8'TH</strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if gte mso 9]>
+      </v:textbox></v:rect>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:40px 10px 10px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-line-height" style="margin: 0px; color: #3b1224; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 30px; font-weight: 400;">EVERY WOMEN IS SPECIAL</h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 4px solid #fccbb8;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="27%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; color: #f15c57; line-height: 100%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 100%;"><span style="font-family: 'Open Sans', sans-serif; font-size: 72px; line-height: 72px;"><strong>25%</strong> <span style="font-size: 48px; line-height: 48px; color: #3b1224;">OFF</span></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 20px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h3 class="v-text-align v-line-height" style="margin: 0px; color: #3b1224; line-height: 100%; text-align: center; word-wrap: break-word; font-family: 'Raleway',sans-serif; font-size: 29px; font-weight: 400;"><em>For a new collection</em></h3>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Countdown" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_1d1e5073.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;width: 80%;max-width: 504px;" title="Countdown" width="504"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_2" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 55px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 200%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 200%;">Experience the elegance and comfort of our carefully selected Women's Day Dresses Collection. Limited time offer!</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 50px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:53px; v-text-anchor:middle; width:517px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:82%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:15px 20px;line-height:120%;"><span style="font-size: 20px; line-height: 24px; font-family: Raleway, sans-serif;">Take Advantage Now!</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:2px;font-family:'Raleway',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #fccbb8;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: #fccbb8;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="216" style="width: 216px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 216.67px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_3" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632051549507-sdsdsd.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 186.67px;" title="Dress" width="186.67"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="216" style="width: 216px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 216.67px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px 10px 10px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-line-height" style="margin: 0px; color: #3b1224; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Raleway',sans-serif; font-size: 29px; font-weight: 400;"><strong>SALES JUST</strong><br/><strong>GOT BETTER</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 180%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 180%;">Celebrate Women's Day with our stylish dress collection. Shop now and elevate your wardrobe!</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:197px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="216" style="width: 216px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 216.67px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_2" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/1632051561247-aad.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 186.67px;" title="Dress" width="186.67"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:40px 10px 10px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-line-height" style="margin: 0px; color: #3b1224; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Open Sans',sans-serif; font-size: 30px; font-weight: 400;"><strong>NEW Collection</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_3" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 55px 30px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 200%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 200%;">Celebrate Women's Day with our exclusive Dresses Collection! Limited time offer. Shop now.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 50px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:53px; v-text-anchor:middle; width:517px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:82%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:15px 20px;line-height:120%;"><span style="font-size: 20px; line-height: 24px; font-family: Raleway, sans-serif;">See All Items Now!</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #fccbb8;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="213" style="width: 213px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-32p88" style="max-width: 320px;min-width: 213.72px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_7cec0e66.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 193.72px;" title="Dress" width="193.72"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">Celebrate Women’s Day with our stunning dress collection. Discover the latest styles and offers.</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="font-family: 'Open Sans', sans-serif; line-height: 25.2px; font-size: 18px;">$ 180</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:157px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:80%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="216" style="width: 216px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 216.64px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_5a444525.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 196.64px;" title="Dress" width="196.64"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">Celebrate Women's Day with our stunning collection of dresses. Shop now and find the perfect outfit for any occasion!</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="font-family: 'Open Sans', sans-serif; line-height: 25.2px; font-size: 18px;">$ 160</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:157px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:80%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="219" style="width: 219px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p79" style="max-width: 320px;min-width: 219.63px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_8091ce75.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 199.63px;" title="Dress" width="199.63"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">Celebrate Women's Day with our stunning collection of dresses! Unveil a world of fashion that suits your style. Shop now and stand out this Women's Day!</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="font-family: 'Open Sans', sans-serif; line-height: 25.2px; font-size: 18px;">$ 150</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:157px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:80%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px 10px;font-family:'Raleway',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #fccbb8;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="213" style="width: 213px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-32p88" style="max-width: 320px;min-width: 213.72px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dresses" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_b224be26.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 193.72px;" title="Dresses" width="193.72"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">Celebrate Women's Day with our stunning collection of dresses! Explore now and find your perfect fit.</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="font-family: 'Open Sans', sans-serif; line-height: 25.2px; font-size: 18px;">$ 180</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:157px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:80%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="216" style="width: 216px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 216.64px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_722a423a.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 196.64px;" title="Dress" width="196.64"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">Celebrate Women's Day with our new collection of stylish dresses. Shop now and receive special discounts!</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="font-family: 'Open Sans', sans-serif; line-height: 25.2px; font-size: 18px;">$ 160</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:157px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:80%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="219" style="width: 219px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p79" style="max-width: 320px;min-width: 219.63px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Dress" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_f4ca6065.bin') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 199.63px;" title="Dress" width="199.63"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">Celebrate Women's Day with our latest dress collection! Find your perfect outfit now!</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="font-family: 'Open Sans', sans-serif; line-height: 25.2px; font-size: 18px;">$ 150</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 50px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
+<div align="center" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="height:43px; v-text-anchor:middle; width:160px;" arcsize="0%"  stroke="f" fillcolor="#f05458"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
+<a class="v-button" href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_2f8c5a96.bin') }}" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #f05458; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:80%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;" target="_blank">
+<span class="v-line-height v-padding" style="display:block;padding:12px 20px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Raleway, sans-serif;">SHOP NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: #fccbb8">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #fccbb8;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: #fccbb8;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: #fccbb8;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:35px 10px 4px;font-family:'Raleway',sans-serif;">
+<!--[if mso]><table width="100%"><tr><td><![endif]-->
+<h1 class="v-text-align v-line-height" style="margin: 0px; color: #3b1224; line-height: 140%; text-align: center; word-wrap: break-word; font-family: 'Raleway',sans-serif; font-size: 29px; font-weight: 400;"><strong>Follow Us</strong></h1>
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; color: #3b1224; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%;">Celebrate Women's Day with our exclusive Dresses Collection! Browse now and find your perfect style!</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 35px;font-family:'Raleway',sans-serif;">
+<div align="center" style="direction: ltr;">
+<div style="display: table; max-width:179px;">
+<!--[if (mso)|(IE)]><table width="179" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse;" align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:179px;"><tr><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 13px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 13px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_d58ff915.bin') }}" target="_blank" title="Facebook">
+<img alt="Facebook" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/facebook.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Facebook" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 13px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 13px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_4fd9c9a2.bin') }}" target="_blank" title="Twitter">
+<img alt="Twitter" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/twitter.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Twitter" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 13px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 13px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_51e18f1a.bin') }}" target="_blank" title="Instagram">
+<img alt="Instagram" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/instagram.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Instagram" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 0px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/asset_9f791c42.bin') }}" target="_blank" title="LinkedIn">
+<img alt="LinkedIn" src="{{ asset('vendor/mail-templates/womens-day-dresses-collection/assets/linkedin.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="LinkedIn" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-color: transparent;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 650px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Raleway',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:18px 10px 20px;font-family:'Raleway',sans-serif;">
+<div class="v-text-align v-line-height" style="font-size: 14px; color: #3b1224; line-height: 180%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 180%;"><span style="font-size: 12px; line-height: 21.6px;">Copyright © 20XX, Company Name, All rights reserved. </span></p>
+<p style="font-size: 14px; line-height: 180%;"><span style="font-size: 12px; line-height: 21.6px;">Changed your mind? You can <span style="text-decoration: underline; line-height: 21.6px; font-size: 12px;">unsubscribe</span> at any time.</span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]></div><![endif]-->
+<!--[if IE]></div><![endif]-->
+</body>
+</html>
